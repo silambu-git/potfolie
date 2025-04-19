@@ -4,8 +4,9 @@
     box-sizing: border-box;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 .HOME{
-    background-color: black;
+    background-color:red;
     height: 100vh;
     overflow: auto;
 }
